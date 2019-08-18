@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d51f77-6217-4a55-b36a-daeae1976bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmock.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jmock/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jmock/hamcrest-library-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jmock/jmock-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jmock/Basics/oneOfAndWillReturnValue/MockAnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jmock/References.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jmock/gettingstarted/PublisherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/JunitCore/TestJunit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/References.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestCase/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestSuite/AllClassTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestSuite/TestJunit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestSuite/TestJunit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestSuite/TestJunit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/TestSuite/TestSuiteRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/UnitTestingByJunit/EmployeeProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/annotation/CommonAnnotationsInJunit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/annotation/ExceptionHandlingInTestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/annotation/IgnoreAnnotationInJunit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/annotation/TimeoutParameterInTestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/junit/parameterizedtesting/CalculatorParameterizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/junit/Calculator.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mockito/gettingstarted/PortfolioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTestFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTestFramework.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,60 +27,48 @@
     <session id="-1830609556">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.112" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="11" />
-          <entry key="java" value="58" />
+          <entry key="java" value="60" />
           <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="11" />
-          <entry key="JAVA" value="58" />
+          <entry key="JAVA" value="60" />
           <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4793" />
+          <entry key="java" value="5753" />
           <entry key="md" value="251" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4793" />
+          <entry key="JAVA" value="5753" />
           <entry key="Markdown" value="251" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/oneOfAndWillReturnValue/MockAnnotationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/com/jmock/oneOfAndReturnValue/MockAnnotationTest.java" />
         <option value="$PROJECT_DIR$/src/com/jmock/Basics/MockAnnotationTest.java" />
         <option value="$PROJECT_DIR$/src/com/jmock/Basics/oneOfAndWillReturnValue/MockAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mockito/PortfolioTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mockito/gettingstarted/PortfolioTest.java" />
       </list>
     </option>
   </component>
@@ -183,6 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,27 +161,66 @@
               <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
+              <item name="PortfolioTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566033467846" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jmock" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566151077787" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mockito" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/mockito" />
       <recent name="$PROJECT_DIR$/lib/jmock" />
       <recent name="$PROJECT_DIR$/lib/junit" />
     </key>
@@ -227,32 +237,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MockAnnotationTest.testEmployeeApi_1">
-    <configuration name="MockTestRunner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jmock.Basics.MockTestRunner1" />
+  <component name="RunManager" selected="JUnit.PortfolioTest.testGetMarketValueOfPortfolioMethod">
+    <configuration name="PortfolioTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mockito.gettingstarted.PortfolioTestRunner" />
       <module name="JavaTestFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jmock.Basics.oneOfAndReturnValue.*" />
+          <option name="PATTERN" value="com.mockito.gettingstarted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MockAnnotationTest.testEmployeeApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaTestFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jmock.Basics.oneOfAndReturnValue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jmock.Basics.oneOfAndReturnValue" />
-      <option name="MAIN_CLASS_NAME" value="com.jmock.Basics.oneOfAndReturnValue.MockAnnotationTest" />
-      <option name="METHOD_NAME" value="testEmployeeApi" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -289,34 +283,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PublisherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PortfolioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaTestFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jmock.Basics.gettingstarted.gettingstarted.*" />
+          <option name="PATTERN" value="com.mockito.gettingstarted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jmock.Basics.gettingstarted.gettingstarted" />
-      <option name="MAIN_CLASS_NAME" value="com.jmock.Basics.gettingstarted.gettingstarted.PublisherTest" />
+      <option name="PACKAGE_NAME" value="com.mockito.gettingstarted" />
+      <option name="MAIN_CLASS_NAME" value="com.mockito.gettingstarted.PortfolioTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mockito.gettingstarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mockito.gettingstarted" />
+      <option name="MAIN_CLASS_NAME" value="com.mockito.gettingstarted.PortfolioTest" />
+      <option name="METHOD_NAME" value="testGetMarketValueOfPortfolioMethod" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PublisherTest" />
-      <item itemvalue="Application.MockTestRunner1" />
-      <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi" />
       <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi_2" />
       <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi_1" />
+      <item itemvalue="JUnit.PortfolioTest.testGetMarketValueOfPortfolioMethod" />
+      <item itemvalue="JUnit.PortfolioTest" />
+      <item itemvalue="Application.PortfolioTestRunner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PortfolioTest.testGetMarketValueOfPortfolioMethod" />
+        <item itemvalue="Application.PortfolioTestRunner" />
+        <item itemvalue="JUnit.PortfolioTest" />
         <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi_1" />
         <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi_2" />
-        <item itemvalue="JUnit.MockAnnotationTest.testEmployeeApi" />
-        <item itemvalue="Application.MockTestRunner1" />
-        <item itemvalue="JUnit.PublisherTest" />
       </list>
     </recent_temporary>
   </component>
@@ -334,21 +344,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PublisherTest - 2019.08.17 at 10h 37m 48s.xml">
-      <configuration name="PublisherTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PublisherTest - 2019.08.17 at 10h 38m 03s.xml">
-      <configuration name="PublisherTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockAnnotationTest_testEmployeeApi - 2019.08.17 at 11h 18m 48s.xml">
-      <configuration name="MockAnnotationTest.testEmployeeApi" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockAnnotationTest_testEmployeeApi - 2019.08.17 at 11h 19m 41s.xml">
-      <configuration name="MockAnnotationTest.testEmployeeApi" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockAnnotationTest_testEmployeeApi - 2019.08.17 at 11h 20m 03s.xml">
-      <configuration name="MockAnnotationTest.testEmployeeApi" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MockAnnotationTest_testEmployeeApi - 2019.08.17 at 11h 55m 49s.xml">
       <configuration name="MockAnnotationTest.testEmployeeApi" configurationId="JUnit" />
     </history-entry>
@@ -364,12 +359,27 @@
     <history-entry file="MockAnnotationTest_testEmployeeApi_1 - 2019.08.17 at 14h 46m 03s.xml">
       <configuration name="MockAnnotationTest.testEmployeeApi_1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 22m 15s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 22m 57s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortfolioTest - 2019.08.18 at 23h 23m 31s.xml">
+      <configuration name="PortfolioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 23m 46s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 24m 47s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74626863" visible="true" weight="0.2701054" />
-      <window_info id="Structure" order="1" sideWeight="0.25373134" side_tool="true" visible="true" weight="0.2701054" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7048093" visible="true" weight="0.27343318" />
+      <window_info id="Structure" order="1" sideWeight="0.29519072" side_tool="true" visible="true" weight="0.27343318" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -377,14 +387,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.7184035" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -547,39 +557,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/gettingstarted/Publisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/gettingstarted/Subscriber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/gettingstarted/Publisher.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/gettingstarted/Subscriber.java" />
     <entry file="jar://$PROJECT_DIR$/lib/jmock/jmock-2.6.0.jar!/org/jmock/Expectations.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="132" column="17" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
-          <folding>
-            <element signature="e#4501#4502#0" expanded="true" />
-            <element signature="e#4554#4555#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,18 +594,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
           <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/oneOfAndWillReturnValue/MockAnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jmock/Basics/oneOfAndWillReturnValue/MockAnnotationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mockito/gettingstarted/PortfolioTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state relative-caret-position="60">
+          <caret line="65" column="27" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -700,7 +695,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jmock</last-edited>
+          <last-edited>junit</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
