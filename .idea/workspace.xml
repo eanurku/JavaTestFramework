@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d51f77-6217-4a55-b36a-daeae1976bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mockito/mockito-all-1.10.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mockito/gettingstarted/PortfolioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTestFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTestFramework.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,16 +23,17 @@
     <session id="-1830609556">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.112" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,6 +41,7 @@
           <entry key="class" value="11" />
           <entry key="java" value="60" />
           <entry key="md" value="5" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,6 +49,7 @@
           <entry key="CLASS" value="11" />
           <entry key="JAVA" value="60" />
           <entry key="Markdown" value="5" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -68,7 +67,15 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5392" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,54 +159,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mockito" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +178,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566151077787" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566151080620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mockito" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -344,12 +311,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MockAnnotationTest_testEmployeeApi - 2019.08.17 at 11h 55m 49s.xml">
-      <configuration name="MockAnnotationTest.testEmployeeApi" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MockAnnotationTest_testEmployeeApi_2 - 2019.08.17 at 11h 59m 11s.xml">
-      <configuration name="MockAnnotationTest.testEmployeeApi_2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MockAnnotationTest_testEmployeeApi_2 - 2019.08.17 at 11h 59m 54s.xml">
       <configuration name="MockAnnotationTest.testEmployeeApi_2" configurationId="JUnit" />
     </history-entry>
@@ -374,12 +335,18 @@
     <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 24m 47s.xml">
       <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 26m 51s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortfolioTest_testGetMarketValueOfPortfolioMethod - 2019.08.18 at 23h 28m 00s.xml">
+      <configuration name="PortfolioTest.testGetMarketValueOfPortfolioMethod" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7048093" visible="true" weight="0.27343318" />
-      <window_info id="Structure" order="1" sideWeight="0.29519072" side_tool="true" visible="true" weight="0.27343318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7039007" visible="true" weight="0.27676097" />
+      <window_info id="Structure" order="1" sideWeight="0.2960993" side_tool="true" visible="true" weight="0.27676097" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -387,14 +354,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.7184035" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.37333333" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -601,9 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,6 +581,11 @@
             <element signature="e#1013#1014#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5392" />
       </provider>
     </entry>
   </component>
