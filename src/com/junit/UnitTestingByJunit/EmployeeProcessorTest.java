@@ -65,13 +65,14 @@ class EmployeeProcessor{
 
     @Before
     public void setup(){
-         emp=new Employee("emp","1",100);
-         empProc=new EmployeeProcessor(emp);
+
+
 
     }
     @Test
     public void testslaryForlevel1(){
-
+        emp=new Employee("emp","1",100);
+        empProc=new EmployeeProcessor(emp);
         Assert.assertEquals(1,empProc.calculateSalaryBonus());
 
     }

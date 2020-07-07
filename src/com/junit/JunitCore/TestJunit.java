@@ -33,7 +33,7 @@ class TestJunitRunner{
 
         System.out.println("Test Was Successfull :"+results.wasSuccessful());
 
-        System.out.println(System.getProperties());
+        //System.out.println(System.getProperties());
 
     }
 }
